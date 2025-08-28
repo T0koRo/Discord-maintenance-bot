@@ -1,0 +1,40 @@
+{
+  "weeklySettings": {
+    "channel": {
+      "type": 5,
+      "guild": "1407277219314929697",
+      "guildId": "1407277219314929697",
+      "permissionOverwrites": [
+        "1407277219314929697",
+        "1407777172000870532"
+      ],
+      "messages": [],
+      "threads": [],
+      "nsfw": false,
+      "flags": 0,
+      "id": "1407298254932017203",
+      "name": "サービスアナウンス",
+      "rawPosition": 3,
+      "parentId": "1407277220103196744",
+      "topic": null,
+      "lastMessageId": "1408707722966470738",
+      "defaultThreadRateLimitPerUser": null,
+      "createdTimestamp": 1755596450313
+    },
+    "channelName": "サービスアナウンス",
+    "day": "saturday",
+    "startTime": "16:12",
+    "endTime": "16:13"
+  },
+  "maintenanceSchedule": [
+    {
+      "date": "2025-08-23",
+      "time": "16:15",
+      "endDate": "2025-08-22",
+      "endTime": "17:00",
+      "summary": "データベース更新",
+      "targetServer": "メインサーバ",
+      "maintenanceTime": "2025-08-23T07:15:00.000Z"
+    }
+  ]
+}
